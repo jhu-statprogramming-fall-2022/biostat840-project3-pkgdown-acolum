@@ -1,0 +1,19 @@
+url: https://acolum.github.io/beepr/
+template:
+  bootstrap: 5
+  bootswatch: pulse
+  theme: monochrome
+  bslib:
+    pkgdown-nav-height: 100px
+    base_font: {google: "Roboto"}
+    heading_font: {google: "Roboto Slab"}
+    code_font: {google: "JetBrains Mono"}
+footer:
+  structure: 
+    left: built_with
+    right: developed_by
+navbar:
+  structure:
+    left:  [search, github]
+    right: [intro, reference, articles, tutorials, news]
+    
